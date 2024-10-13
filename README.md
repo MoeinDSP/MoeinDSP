@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Moein</h1>
 
 
-- 🔭 I’m currently working on **Open-RAN Concept**
+- 🔭 I’m currently working on **Artificial Intelligence and Open-RAN Concept**
 
 - 📫 How to reach me **moein.taherinezhad@mail.polimi.it**
 
