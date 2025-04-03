@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Moein</h1>
 
-- 🔭 I’m currently working on **Natural Language Processing and Large Language Models**
+- 🔭 I’m currently working on **AI Agents, Large Language Models and Natural Language Processing**
 
 - 📫 How to reach me **moein.taherinezhad@mail.polimi.it**
 
