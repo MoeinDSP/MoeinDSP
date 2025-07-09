@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Large Language Models, AI Agents and Natural Language Processing.**
 
-- 📫 How to reach me **moein.taherinezhad@mail.polimi.it**
+- 📫 How to reach me **moein.taherinezhad@mail.polimi.it** , **moein.taherinezhad@stud.tu-darmstadt.de**
 
 <h3 align="left">Languages and Tools:</h3>
 
