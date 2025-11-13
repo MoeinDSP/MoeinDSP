@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Moein</h1>
 
-- 🔭 I’m currently working on **Intersection of Large Language Models and Computational Social Networks.**
+- 🔭 I’m currently working on **Intersection of Large Language Models and Computational Social Science.**
 
 - 📫 How to reach me **moein.taherinezhad@mail.polimi.it** , **moein.taherinezhad@stud.tu-darmstadt.de**, **taherinezhad@mpib-berlin.mpg.de**
 
