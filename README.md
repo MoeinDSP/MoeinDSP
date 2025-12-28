@@ -1,7 +1,7 @@
 <div align="center">
-    <!-- <a href="https://github.com/kawarimidoll/typograssy"> -->
+    <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20%20%20Moein%20Taherinezhad&l0=ffffff&l4=428118&frame=de1717&speed=100">
-    <!-- </a> -->
+    </a>
 </div>
 
 <br>
