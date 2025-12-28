@@ -133,17 +133,17 @@
         <a href="https://github.com/MoeinDSPf/Robotics-Project">
             <img width="49%" alt="Robotics-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSPf&repo=Robotics-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
-        <a href="https://github.com/MoeinDSPf/NLP-Project">
+        <a href="https://github.com/MoeinDSP/NLP-Project">
             <img width="49%" alt="NLP-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSPf&repo=NLP-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
-        <a href="https://github.com/MoeinDSPf/SMBUD-Project">
-            <img width="49%" alt="SMBUD-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSPf&repo=SMBUD-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        <a href="https://github.com/MoeinDSP/SMBUD-Project">
+            <img width="49%" alt="SMBUD-Project" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSP&repo=SMBUD-Project&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
-        <a href="https://github.com/MoeinDSPf/IS23-AM40">
-            <img width="49%" alt="IS23-AM40" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSPf&repo=IS23-AM40&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        <a href="https://github.com/MoeinDSP/IS23-AM40">
+            <img width="49%" alt="IS23-AM40" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSP&repo=IS23-AM40&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
-        <a href="https://github.com/MoeinDSPf/RecSys-Challenge">
-            <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSPf&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
+        <a href="https://github.com/MoeinDSP/RecSys-Challenge">
+            <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=MoeinDSP&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
     </p>
 </div> -->
@@ -154,20 +154,20 @@
   <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Statistics</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h1> 
     <p align = "center">
         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats-gray-iota-48.vercel.app/api?username=MoeinDSPf&theme=tokyonight&hide_border=true">
+            <img width="49%" alt="Stats" src="https://github-readme-stats-gray-iota-48.vercel.app/api?username=MoeinDSP&theme=tokyonight&hide_border=true">
         </a>
         <a href="https://git.io/streak-stats">
-            <img width="50%" src="https://github-readme-streak-stats-amber-delta.vercel.app?user=MoeinDSPf&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
+            <img width="50%" src="https://github-readme-streak-stats-amber-delta.vercel.app?user=MoeinDSP&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak">
         </a>
         <a href="https://github-profile-trophy-sandygast.vercel.app">
-            <img width="50%" align="left" alt="Trophy" src="https://github-profile-trophy-sandygast.vercel.app/?username=MoeinDSPf&theme=aura&column=4&row=4&margin-w=5&margin-h=5&no-frame=true&colors=00f5ff,00d4ff,7a00ff,0d0221">
-            <img src="https://github-readme-stats-gray-iota-48.vercel.app/api/top-langs/?username=MoeinDSPf&hide_border=true&layout=compact&langs_count=6&bg_color=0d0221&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff" align="right" width="44%">
+            <img width="50%" align="left" alt="Trophy" src="https://github-profile-trophy-sandygast.vercel.app/?username=MoeinDSP&theme=aura&column=4&row=4&margin-w=5&margin-h=5&no-frame=true&colors=00f5ff,00d4ff,7a00ff,0d0221">
+            <img src="https://github-readme-stats-gray-iota-48.vercel.app/api/top-langs/?username=MoeinDSP&hide_border=true&layout=compact&langs_count=6&bg_color=0d0221&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff" align="right" width="44%">
         </a>
         <a href="https://github-readme-activity-graph.cyclic.app">
-            <img width="120%" alt="Stats" src="https://github-readme-activity-graph-beige.vercel.app/graph?username=MoeinDSPf&theme=react-dark">
+            <img width="120%" alt="Stats" src="https://github-readme-activity-graph-beige.vercel.app/graph?username=MoeinDSP&theme=react-dark">
         </a>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeinDSPf&theme=tokyonight">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoeinDSP&theme=tokyonight">
         </a>
     </p>
 </div>
@@ -188,7 +188,7 @@
 
 <div align="center">
   <br>
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MoeinDSPf/MoeinDSPf/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="2000"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MoeinDSP/MoeinDSP/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="2000"/>
   
   <br/>
 </div>
@@ -229,7 +229,7 @@ For more details about my references and tools, check out [REFERENCE.md](REFEREN
 
 
 <!--
-**MoeinDSPf/MoeinDSPf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MoeinDSP/MoeinDSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
