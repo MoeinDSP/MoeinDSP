@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi,%20I%27m%20Francesco%20Di%20Giore%20&l0=none&l1=00f5ff&l2=00d4ff&l3=7a00ff&l4=0d0221&bg=none&frame=none&speed=100&comment=">
+    <img alt="typograssy" src="[https://typograssy.deno.dev/api?text=Hi,%20I%27m%20Francesco%20Di%20Giore%20&l0=none&l1=00f5ff&l2=00d4ff&l3=7a00ff&l4=0d0221&bg=none&frame=none&speed=100&comment=](https://typograssy.deno.dev/api?text=Moein%20Taherinezhad&l0=ffffff&l4=428118&frame=de1717&speed=300)">
     </a>
 </div>
 
