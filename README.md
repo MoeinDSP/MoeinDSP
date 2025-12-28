@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20%20Moein%20Taherinezhad&l0=ffffff&l1=8aff9d&comment=">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20Hi%20there!%20Welcome%20to%20my%20page.&l0=000000&l1=8aff9d&bg=000000&speed=100&comment=">
     </a>
 </div>
 
@@ -223,7 +223,7 @@ For more details about my references and tools, check out [REFERENCE.md](REFEREN
 
 <div align="center">
     <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Thanks%20for%20visiting%20&l0=none&l1=00f5ff&l2=00d4ff&l3=7a00ff&l4=0d0221&bg=none&frame=none&speed=100&comment=">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%20%20Thanks%20for%20visiting&l0=000000&l1=8aff9d&bg=000000&speed=100&comment=">
     </a>
 </div>
 
