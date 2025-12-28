@@ -182,17 +182,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" width="100">
-    <h1><img src="Images/snakes.gif" width="35"> <b>Snake</b> <img src="Images/snakes.gif" width="35"></h1>
+<div style="text-align: center;">
+  <h1>
+    <img src="https://raw.githubusercontent.com/MoeinDSP/MoeinDSP/main/Images/snakes.gif" width="35" />
+    <b>Snake</b>
+    <img src="https://raw.githubusercontent.com/MoeinDSP/MoeinDSP/main/Images/snakes.gif" width="35" />
+  </h1>
 </div>
 
-<div align="center">
-  <br>
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MoeinDSP/MoeinDSP/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="2000"/>
-  
-  <br/>
+<div style="text-align: center;">
+  <br />
+  <img
+    alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/MoeinDSP/MoeinDSP/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+  <br />
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
