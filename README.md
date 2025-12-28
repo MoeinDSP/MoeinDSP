@@ -182,7 +182,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <h1>
     <img src="https://raw.githubusercontent.com/MoeinDSP/MoeinDSP/main/Images/snakes.gif" width="35" />
     <b>Snake</b>
@@ -198,7 +198,7 @@
     width="100%"
   />
   <br />
-</div>
+</div> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
