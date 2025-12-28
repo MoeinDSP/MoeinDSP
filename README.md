@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Francesco Di Giore, a <b>Master's student</b> from the <a href="https://www.polimi.it/"> <b>Polytechnic of Milan</b>, Italy</a>.<br>
+    Hello, I am Moein Taherinezhad, 
     I’m passionate about <b>Artificial Intelligence</b> <img src="Images/ai_3.gif" width="30px">, constantly exploring how machines can <b>learn, adapt, and enhance human creativity</b>. <img src="Images/brain.gif" width="50px">    
       My goal is to contribute to building <b>innovative AI systems</b> that make life smarter and more meaningful.
 </em>
@@ -33,11 +33,8 @@
     <div style="flex: 1;" align="left">
         <ul style="list-style-type: none; padding: 0;">
             <li>✔ Call me: <b>He/His</b> </li>
-            <li>✔ Currently learning: <b>Generative AI, NLP, AI, Robotics, Deep Learning, Machine Learning</b> </li>
-            <li>✔ Degree: Ing Ind - Inf (1 liv.)(ord. 270) - MI (358) INGEGNERIA INFORMATICA at Polytechnic of Milan</li>
-            <li>✔ Student: Ing Ind - Inf (Mag.)(ord. 270) - MI (481) COMPUTER SCIENCE AND ENGINEERING - ARTIFICIAL INTELLIGENCE at Polytechnic of Milan</li>
-            <li>✔ How to reach me: <a href="mailto:digiorefrancesco10@gmail.com">digiorefrancesco10@gmail.com</a> or <a href="mailto:francesco.digiore@mail.polimi.it">francesco.digiore@mail.polimi.it</a></li>
-            <li>✔ Hobbies: sports, videogames, TV series, films, hang out with friends</li>
+            <li>✔ Currently Working on: <b>Generative AI, NLP, Deep Learning, Large Language Models</b> </li>
+            <li>✔ How to reach me: <a href="mailto:moein.taherinezhad@mail.polimi.it">moein.taherinezhad@mail.polimi.it</a> or <a href="mailto:taherinezhad@mpib-berlin.mpg.de">taherinezhad@mpib-berlin.mpg.de</a></li>
             <li>✔ Contact me in private for my <b>CV</b> </li>
         </ul>
     </div>
@@ -118,7 +115,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" width="100">
+<!-- <div align="center" width="100">
   <h1><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width ="35"> <b>Repositories</b> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width ="35"></h1> 
     <p align = "center">
         <a href="https://github.com/Digioref/OLA-Pricing">
@@ -149,7 +146,7 @@
             <img width="49%" alt="RecSys-Challenge" src="https://github-readme-stats-gray-iota-48.vercel.app/api/pin/?username=Digioref&repo=RecSys-Challenge&title_color=00f5ff&text_color=00d4ff&icon_color=7a00ff&bg_color=0d0221&hide_border=true&cache_seconds=1800" />
         </a>
     </p>
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
