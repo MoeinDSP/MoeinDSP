@@ -174,11 +174,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" width="100">
+<!-- <div align="center" width="100">
     <h1><img src="Images/3d.gif" width="35"> <b>3D Contributions</b> <img src="Images/3d.gif" width="35"></h1>
 </div>    
 
+![](./profile-3d-contrib/profile-night-view.svg) -->
+<div align="center">
+  <h1>
+    <img src="Images/3d.gif" width="35">
+    <b>3D Contributions</b>
+    <img src="Images/3d.gif" width="35">
+  </h1>
+</div>
+
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+
+
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
