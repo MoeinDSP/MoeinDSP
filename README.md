@@ -33,7 +33,7 @@
     <div style="flex: 1;" align="left">
         <ul style="list-style-type: none; padding: 0;">
             <li>✔ Call me: <b>He/His</b> </li>
-            <li>✔ Currently Working on: <b>Generative AI, NLP, Deep Learning, Large Language Models</b> </li>
+            <li>✔ Currently Working on: <b>Agentic AI</b> </li>
             <li>✔ How to reach me: <a href="mailto:moein.taherinezhad@mail.polimi.it">moein.taherinezhad@mail.polimi.it</a> or <a href="mailto:taherinezhad@mpib-berlin.mpg.de">taherinezhad@mpib-berlin.mpg.de</a></li>
             <li>✔ Contact me in private for my <b>CV</b> </li>
         </ul>
